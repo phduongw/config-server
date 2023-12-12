@@ -1,7 +1,7 @@
 gateway:
-  ip: 192.168.1.3
-#  ip: 10.164.178.61
+#  ip: 192.168.1.3
+  ip: 10.164.178.61
 #  ip: 172.20.10.2
 token:
   expiration_time: 3600000
-  secret: 123481203958asdfmasdfzocixubbozixusndfn399129djlkvclzvjks000023
+  secret: 123481203958asdfmasdfzocixubbozixusndfn399129djlkvclzvjks000011
